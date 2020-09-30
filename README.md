@@ -1,10 +1,10 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent blog articles
-* [Generating a GPG key with smartcard and SSH Authentication ](https://techwolf12.nl/blog/generating-gpg-key-smartcard-and-ssh-authentication) 📅 13-09-2020
+* [BGP Hijacking - What is it and how to prevent it?](https://techwolf12.nl/blog/bgp-hijacking-what-it-and-how-prevent-it) 📅 30-09-2020
+* [Generating a GPG key with smartcard and SSH Authentication](https://techwolf12.nl/blog/generating-gpg-key-smartcard-and-ssh-authentication) 📅 13-09-2020
 * [Generating IPv6 PTR records from a Bind9 Zonefile using Bash](https://techwolf12.nl/blog/generating-ipv6-ptr-records-bind9-zonefile-using-bash) 📅 02-08-2020
 * [HTTP Basic Authentication with LDAP and Apache2](https://techwolf12.nl/blog/http-basic-authentication-ldap-and-apache2) 📅 21-06-2020
-* [DigitalOcean Kubernetes with Static IPv4](https://techwolf12.nl/blog/digitalocean-kubernetes-static-ipv4) 📅 03-05-2020
 
 More of my blog: [techwolf12.nl](https://techwolf12.nl/blog)
 </td><td valign="top" width="33%">
