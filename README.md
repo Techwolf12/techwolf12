@@ -14,7 +14,7 @@ More of my blog: [techwolf12.nl](https://techwolf12.nl/blog)
 * [DIY (Hardware related)](https://techwolf12.nl/tag/diy)
 * [Networking](https://techwolf12.nl/tag/networking)
 * [Security](https://techwolf12.nl/tag/security)
-* [HAN-Radio](https://techwolf12.nl/tag/ham-radio)
+* [HAM-Radio](https://techwolf12.nl/tag/ham-radio)
 
 </td><td valign="top" width="33%">
 
