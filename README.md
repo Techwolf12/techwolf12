@@ -1,6 +1,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent blog articles
+ * [Counting water usage with the Watermeterkit](https://techwolf12.nl/blog/counting-water-usage-watermeterkit) 📅 12-10-2021
 * [Using RTMP for Streamlabs OBS (GoPro, Co-Streaming to multiple Channels)](https://techwolf12.nl/blog/using-rtmp-streamlabs-obs-gopro-co-streaming-multiple-channels) 📅 11-03-2021
 * [DMR Setup on Anytone D878UV with APRS/SMS](https://techwolf12.nl/blog/dmr-setup-anytone-d878uv-aprssms) 📅 13-11-2020
 * [BGP Hijacking - What is it and how to prevent it?](https://techwolf12.nl/blog/bgp-hijacking-what-it-and-how-prevent-it) 📅 30-09-2020
