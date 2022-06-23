@@ -1,3 +1,5 @@
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/techwolf12/my-stack)
+
 <table><tr><td valign="top" width="33%">
 
 ### Recent blog articles
@@ -26,5 +28,3 @@ More of my blog: [techwolf12.nl](https://techwolf12.nl/blog)
 * [Keybase](https://keybase.io/techwolf12)
 * [Telegram](https://t.me/techwolf12)
 </td></tr></table>
-
-
