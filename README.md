@@ -3,12 +3,11 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent blog articles
-* [Using Python to migrate DigitalOcean domains to Terraform managed](https://techwolf12.nl/blog/using-python-migrate-digitalocean-domains-terraform-managed) 📅 15-03-2022
-* [Counting water usage with the Watermeterkit](https://techwolf12.nl/blog/counting-water-usage-watermeterkit) 📅 12-10-2021
-* [Using RTMP for Streamlabs OBS (GoPro, Co-Streaming to multiple Channels)](https://techwolf12.nl/blog/using-rtmp-streamlabs-obs-gopro-co-streaming-multiple-channels) 📅 11-03-2021
-* [DMR Setup on Anytone D878UV with APRS/SMS](https://techwolf12.nl/blog/dmr-setup-anytone-d878uv-aprssms) 📅 13-11-2020
-* [BGP Hijacking - What is it and how to prevent it?](https://techwolf12.nl/blog/bgp-hijacking-what-it-and-how-prevent-it) 📅 30-09-2020
-* [Generating a GPG key with smartcard and SSH Authentication](https://techwolf12.nl/blog/generating-gpg-key-smartcard-and-ssh-authentication) 📅 13-09-2020
+* [Using Python to migrate DigitalOcean domains to Terraform managed](https://techwolf12.nl/blog/using-python-migrate-digitalocean-domains-terraform-managed) 📅 3/15/2022
+* [Counting water usage with the Watermeterkit](https://techwolf12.nl/blog/counting-water-usage-watermeterkit) 📅 10/12/2021
+* [Using RTMP for Streamlabs OBS (GoPro, Co-Streaming to multiple Channels)](https://techwolf12.nl/blog/using-rtmp-streamlabs-obs-gopro-co-streaming-multiple-channels) 📅 3/11/2021
+* [DMR Setup on Anytone D878UV with APRS/SMS](https://techwolf12.nl/blog/dmr-setup-anytone-d878uv-aprssms) 📅 11/13/2020
+* [BGP Hijacking - What is it and how to prevent it?](https://techwolf12.nl/blog/bgp-hijacking-what-it-and-how-prevent-it) 📅 9/30/2020
 
 More of my blog: [techwolf12.nl](https://techwolf12.nl/blog)
 </td><td valign="top" width="33%">
