@@ -27,3 +27,10 @@ More of my blog: [techwolf12.nl](https://techwolf12.nl/blog)
 * [Keybase](https://keybase.io/techwolf12)
 * [Telegram](https://t.me/techwolf12)
 </td></tr></table>
+
+<table><tr><td valign="top" width="50%">
+  <img height="180em" src="https://github-readme-stats-phi-nine-77.vercel.app/api?username=techwolf12&count_private=true&hide_rank=true&show_icons=true&theme=cobalt" />
+</td><td valign="top" width="33%">
+  <img height="180em" src="https://github-readme-stats-phi-nine-77.vercel.app/api/top-langs/?username=techwolf12&layout=compact&langs_count=5&hide=jupyter%20notebook,html,Dockerfile&theme=cobalt" />
+</td></table>
+  
