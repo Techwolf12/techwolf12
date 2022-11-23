@@ -3,11 +3,11 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent blog articles
+* [Hacking the parking gate](https://techwolf12.nl/external-blog-redirect/hacking-parking-gate) 📅 23-11-2022
 * [Hosting a successful GPG Keysigning Party](https://techwolf12.nl/blog/hosting-successful-gpg-keysigning-party) 📅 22-11-2022
 * [Using Python to migrate DigitalOcean domains to Terraform managed](https://techwolf12.nl/blog/using-python-migrate-digitalocean-domains-terraform-managed) 📅 15-3-2022
 * [Counting water usage with the Watermeterkit](https://techwolf12.nl/blog/counting-water-usage-watermeterkit) 📅 12-10-2021
 * [Using RTMP for Streamlabs OBS (GoPro, Co-Streaming to multiple Channels)](https://techwolf12.nl/blog/using-rtmp-streamlabs-obs-gopro-co-streaming-multiple-channels) 📅 11-3-2021
-* [DMR Setup on Anytone D878UV with APRS/SMS](https://techwolf12.nl/blog/dmr-setup-anytone-d878uv-aprssms) 📅 13-11-2020
 
 More of my blog: [techwolf12.nl](https://techwolf12.nl/blog)
 </td><td valign="top" width="33%">
