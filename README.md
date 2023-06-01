@@ -3,11 +3,11 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent blog articles
+* [OpenLDAP for sudo configuration and rights](https://techwolf12.nl/blog/openldap-sudo-configuration-and-rights) 📅 28-5-2023
+* [Reverse SSH tunnel for port forwarding](https://techwolf12.nl/blog/reverse-ssh-tunnel-port-forwarding) 📅 27-5-2023
 * [Hacking the parking gate](https://techwolf12.nl/external-blog-redirect/hacking-parking-gate) 📅 23-11-2022
 * [Hosting a successful GPG Keysigning Party](https://techwolf12.nl/blog/hosting-successful-gpg-keysigning-party) 📅 22-11-2022
 * [Using Python to migrate DigitalOcean domains to Terraform managed](https://techwolf12.nl/blog/using-python-migrate-digitalocean-domains-terraform-managed) 📅 15-3-2022
-* [Counting water usage with the Watermeterkit](https://techwolf12.nl/blog/counting-water-usage-watermeterkit) 📅 12-10-2021
-* [Using RTMP for Streamlabs OBS (GoPro, Co-Streaming to multiple Channels)](https://techwolf12.nl/blog/using-rtmp-streamlabs-obs-gopro-co-streaming-multiple-channels) 📅 11-3-2021
 
 More of my blog: [techwolf12.nl](https://techwolf12.nl/blog)
 </td><td valign="top" width="33%">
@@ -29,7 +29,7 @@ More of my blog: [techwolf12.nl](https://techwolf12.nl/blog)
 </td></tr></table>
 
 <table><tr><td valign="top" width="50%">
-  <img height="180em" src="https://github-readme-stats-phi-nine-77.vercel.app/api?username=techwolf12&count_private=true&hide_rank=true&show_icons=true&theme=cobalt" />
+  <img height="180em" src="https://github-readme-stats-g6tq-673v6fuxu-techwolf12.vercel.app/api?username=techwolf12&count_private=true&hide_rank=true&show_icons=true&theme=cobalt" />
 </td><td valign="top" width="50%">
   <img height="180em" src="https://github-readme-stats-phi-nine-77.vercel.app/api/top-langs/?username=techwolf12&layout=compact&langs_count=5&hide=jupyter%20notebook,html,Dockerfile&theme=cobalt" />
 </td></table>
