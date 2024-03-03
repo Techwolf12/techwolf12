@@ -3,19 +3,19 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent blog articles
+* [MySQL Tips and Tricks](https://techwolf12.nl/blog/mysql-tips-and-tricks/) 01-03-2024
 * [OpenLDAP for sudo configuration and rights](https://techwolf12.nl/blog/openldap-sudo-configuration-and-rights) 📅 28-5-2023
 * [Reverse SSH tunnel for port forwarding](https://techwolf12.nl/blog/reverse-ssh-tunnel-port-forwarding) 📅 27-5-2023
-* [Hacking the parking gate](https://techwolf12.nl/external-blog-redirect/hacking-parking-gate) 📅 23-11-2022
+* [Hacking the parking gate](https://engineering.q42.nl/parking-hack/) 📅 23-11-2022
 * [Hosting a successful GPG Keysigning Party](https://techwolf12.nl/blog/hosting-successful-gpg-keysigning-party) 📅 22-11-2022
-* [Using Python to migrate DigitalOcean domains to Terraform managed](https://techwolf12.nl/blog/using-python-migrate-digitalocean-domains-terraform-managed) 📅 15-3-2022
 
 More of my blog: [techwolf12.nl](https://techwolf12.nl/blog)
 </td><td valign="top" width="33%">
 
 ### Blog Categories
 * [DevOPS](https://techwolf12.nl/tag/devops)
-* [DIY (Hardware related)](https://techwolf12.nl/tag/diy)
 * [Networking](https://techwolf12.nl/tag/networking)
+* [Domotica](https://techwolf12.nl/tag/domotica)
 * [Security](https://techwolf12.nl/tag/security)
 * [HAM-Radio](https://techwolf12.nl/tag/ham-radio)
 
