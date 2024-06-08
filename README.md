@@ -1,4 +1,4 @@
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/techwolf12/my-stack) [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/techwolf12)](https://artifacthub.io/packages/search?repo=techwolf12)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/techwolf12/my-stack) [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/techwolf12)](https://artifacthub.io/packages/search?repo=techwolf12) [![GPG Key](/gpg.svg)](https://techwolf12.nl/gpg/2f2546d8.asc)
 
 <table><tr><td valign="top" width="33%">
 
